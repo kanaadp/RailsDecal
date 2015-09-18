@@ -1,0 +1,21 @@
+a = "hello"
+b = "world"
+
+c= "#{a} {b}#"
+
+
+#>>> puts c
+#>>> hello world
+
+a = "hello"
+a << "world"
+
+puts a
+#>>> hello world
+
+
+puts "a is true" if a
+
+puts "a is false" unless a
+
+
