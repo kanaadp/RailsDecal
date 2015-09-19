@@ -42,7 +42,7 @@ For example:
 
 ## Challenge
 - Q1-Q3 can be written in 1 line and under 40 characters.  Q4 can be written in under 80 characters
-in q line if you exclude the def and end statement.  Do this if you want an extra challenge.
+in 1 line if you exclude the def and end statement.  Do this if you want an extra challenge.
 
 - Check out the autograder.rb file and try to figure out how it works!
 
